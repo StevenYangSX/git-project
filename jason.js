@@ -5,8 +5,3 @@ var person = {
   eyeColor: "brown"
 };
 
-console.log("person:", person);
-
-console.log("last Name:", person.lastName);
-
-console.log("first Name:", person.firstName);

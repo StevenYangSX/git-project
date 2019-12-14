@@ -17,3 +17,5 @@ function height(imgPath){
 }
 
 module.exports = {ratio, width, height};
+
+console.log("hello hahahaha")

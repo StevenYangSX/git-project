@@ -6,3 +6,7 @@ var person = {
 };
 
 console.log("person:", person);
+
+console.log("last Name:", person.lastName);
+
+console.log("first Name:", person.firstName);

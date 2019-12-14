@@ -1,4 +1,4 @@
-var sizeOf = require('image-size');
+const sizeOf = require('image-size');
 
 
 function ratio(imgPath, width){
